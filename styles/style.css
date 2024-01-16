@@ -509,6 +509,13 @@ height: 20px;
 }
 
 .newsletter-tag{
+  color: #fff;
+  text-align: center;
+}
+
+
+
+.newsletter-tag{
   border-radius: 6px;
 background: #FF5400;
 width: 30%;
@@ -519,6 +526,7 @@ bottom: 20%;
 transform: rotate(-45deg);
 
 }
+
 
 
 .pricing-section{
